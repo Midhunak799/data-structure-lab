@@ -61,7 +61,7 @@ for(i=0;i<size;i++)
 {
 if(a[i].x==(unsigned char)1)
  {
-printf("%d",u[i]);
+printf(" %d ",u[i]);
  }
 }
 printf("}");
